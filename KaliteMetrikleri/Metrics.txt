@@ -1,5 +1,22 @@
 Kalite Metrikleri:
+ [Karmaşıklık, Bağlılık, Uyumluluk]
 1. Cyclomatic Complexity:
 
 Bir fonksiyonun içinde bulunan; karar mekanizmaları ya da döngülerin sayısı +1 olarak ölçülür. 
 10'dan düşük olması tavsiye edilir
+
+2. Coupling Metrics:
+  -Ca: Afferent Coupling: Bir sınıfın kaç farklı sınıf taradından kullanıldığını ölçer.
+       Eğer yüksek Ca varsa; o sınıfın değişmesi büyük risk oluşturur.
+  -Ce: Efferent Coupling: Bir sınıf kaç farklı nesne kullandığını ölçer. Eğer yüksek Ce 
+       ölçülürse; bu o sınıfın çok fazla sorumluluğu olduğunu gösterir.
+       (Dependency Inversion ile çözülür.) 
+
+
+3. Cohesion Metrics:
+   Bir sınıf sadece bir sorumluluğa sahip mi?
+   
+
+
+
+

@@ -1,0 +1,11 @@
+1. Kasıtlı  teknik borç
+   --Faydalar ve riskler değerlendirilerek bilinçli olarak bırakılan borçtur.
+2. Kazara Teknik borç  
+   -- Deneyim eksikliği ya da bilgi eksikliğinden kaynaklanan...
+3. Tasarımsal Teknik Borç
+   -- Yeni özellikler; eski tasarıma uymazsa; özellikleri tasarıma uydurmak zorunda kalabilirsiniz.
+4. Bakım Teknik Borcu
+   -- Bakımın ihmal edilmesinden kaynaklanan borçtur. Örneğin; dokümantasyon eksikliği ya da 
+   yeni özelliklerin test edilmemesi bu kategoriye girer.
+
+-- Teknik Borç Tespiti

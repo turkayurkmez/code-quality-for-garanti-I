@@ -1,0 +1,5 @@
+﻿C:\Users\turka\source\repos\Kurumsal\Garanti\Kod kalitesi ve Analiz\DirtyToCleanCode\CleanCode.Application\BillCalculator.cs
+C:\Users\turka\source\repos\Kurumsal\Garanti\Kod kalitesi ve Analiz\DirtyToCleanCode\CleanCode.Application\Class1.cs
+C:\Users\turka\source\repos\Kurumsal\Garanti\Kod kalitesi ve Analiz\DirtyToCleanCode\CleanCode.Application\CompanyService.cs
+C:\Users\turka\source\repos\Kurumsal\Garanti\Kod kalitesi ve Analiz\DirtyToCleanCode\CleanCode.Application\ExtraPaymentOptions.cs
+C:\Users\turka\source\repos\Kurumsal\Garanti\Kod kalitesi ve Analiz\DirtyToCleanCode\CleanCode.Application\IBillCalculator.cs

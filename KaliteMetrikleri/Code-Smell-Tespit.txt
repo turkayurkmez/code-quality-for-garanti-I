@@ -1,0 +1,7 @@
+Kişisel Kod Denetimi
+  1. Bu kodu anlamak zor mu?
+  2. Çekinmeden değişiklik yapılabilir mi?
+  3. Test etmek zor mu?
+  4. Kodda tekrar eden bölümler var mı?
+
+  

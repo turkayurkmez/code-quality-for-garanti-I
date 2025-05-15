@@ -7,5 +7,5 @@ public class TransferResult
     public object TransactionId { get; internal set; }
     public decimal ProcessedAmount { get; internal set; }
     public string ProcessedCurrency { get; internal set; }
-
+    public string Message { get; internal set; }
 }

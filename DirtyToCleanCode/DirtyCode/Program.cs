@@ -2,8 +2,18 @@
 {
     class Program
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="args"></param>
+        /// TEKNİK BORÇ: Bu metot temizlenecek....
+        /// Öncelik: Yüksek
+        /// Tahmin: 3 gün
+        /// Sorumlular: Türkay ve Şule
+        /// Planlanan Tarih: Q3 2025
         static void Main(string[] args)
         {
+            //TODO 1: Bu main metodu parçalanacak...
             string w, rawTimeWorked;
             int i;
             double ttl, t;

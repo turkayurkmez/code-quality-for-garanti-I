@@ -10,7 +10,7 @@ namespace CleanCode.Infrastructure
 {
     public class NotificationService : INotificationService
     {
-        private IBillCalculator billCalculator;
+        private readonly IBillCalculator billCalculator;
 
         public NotificationService(IBillCalculator billCalculator)
         {

@@ -1,0 +1,4 @@
+﻿C:\Users\turka\source\repos\Kurumsal\Garanti\Kod kalitesi ve Analiz\DirtyToCleanCode\CleanCode.Infrastructure\Class1.cs
+C:\Users\turka\source\repos\Kurumsal\Garanti\Kod kalitesi ve Analiz\DirtyToCleanCode\CleanCode.Infrastructure\INotificationService.cs
+C:\Users\turka\source\repos\Kurumsal\Garanti\Kod kalitesi ve Analiz\DirtyToCleanCode\CleanCode.Infrastructure\NotificationService.cs
+C:\Users\turka\source\repos\Kurumsal\Garanti\Kod kalitesi ve Analiz\DirtyToCleanCode\CleanCode.Infrastructure\Simulator.cs
